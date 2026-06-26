@@ -50,7 +50,7 @@ DevOps Engineer with experience in AWS Cloud, Kubernetes, CI/CD automation and I
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gangadhariy&show_icons=true&theme=dark)
 
 ---
 
