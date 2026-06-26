@@ -56,6 +56,6 @@ DevOps Engineer with experience in AWS Cloud, Kubernetes, CI/CD automation and I
 
 ## 🤝 Connect
 
-LinkedIn: YOUR_LINK
+LinkedIn: https://www.linkedin.com/in/gangadhar-i-yaleholi-044066245/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmqchLFsySByHhiQdw9w%2BIg%3D%3D
 
-Email: YOUR_EMAIL
+Email: gangadharyaleholi12@gmail.com
