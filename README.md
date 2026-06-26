@@ -1,8 +1,8 @@
 # Hi 👋 I'm Gangadhar
 
-## AWS DevOps Engineer ☁️🚀
+## DevOps Engineer ☁️🚀
 
-DevOps Engineer with experience in AWS Cloud, Kubernetes, CI/CD automation and Infrastructure as Code.
+DevOps Engineer with 3 years of experience in AWS Cloud, Kubernetes, CI/CD automation and Infrastructure as Code.
 
 ---
 
@@ -56,6 +56,6 @@ DevOps Engineer with experience in AWS Cloud, Kubernetes, CI/CD automation and I
 
 ## 🤝 Connect
 
-LinkedIn: https://www.linkedin.com/in/gangadhar-i-yaleholi-044066245/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmqchLFsySByHhiQdw9w%2BIg%3D%3D
+🔗 LinkedIn: [Gangadhar Yaleholi](https://www.linkedin.com/in/gangadhar-i-yaleholi-044066245/)
 
-Email: gangadharyaleholi12@gmail.com
+📧 Email: gangadharyaleholi12@gmail.com
